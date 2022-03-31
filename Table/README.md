@@ -13,7 +13,7 @@ you can use key{SlotTable[10923]} key{SlotTable[0]} key{SlotTable[5461]} to Make
 ```
 
 import (
-	"github.com/260721735/GetKeyByRedisClusterSlot/Table"
+	"github.com/260721735/redis/Table"
 )
 
 func main() {
